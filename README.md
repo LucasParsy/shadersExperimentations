@@ -1,7 +1,8 @@
 # Screen Space Shaders
 
-Several examples of full screen 2D shader processing.
-Many common full-res effects are implemented here for reference.
+my tests with the shader system of Godot
+
+for now only a shader that mimics the time-dilation ring from Braid.
 
 Language: [GDSL](https://docs.godotengine.org/en/latest/tutorials/shading/shading_reference/shading_language.html) and GDScript
 
@@ -9,6 +10,4 @@ Renderer: GLES 2
 
 ## Screenshots
 
-![Screenshot](screenshots/whirl.png)
-
-![Screenshot](screenshots/old_film.png)
+![Screenshot](screenshots/braidEffectExample.gif)
